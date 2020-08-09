@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ToolsBox.png</file>
+        <file>drop_down_hover.png</file>
+    </qresource>
+</RCC>
